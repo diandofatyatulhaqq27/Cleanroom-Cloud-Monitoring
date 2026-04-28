@@ -30,9 +30,15 @@ Historical Compliance Logging: Automated data archiving within InfluxDB to facil
 * Application Layer: Cloud Dashboard for visualization and History Record management.
 
 # Demo Video
-
-
 https://github.com/user-attachments/assets/829cdfd1-ad28-4b8c-a8ee-0c5dcade0b37
+
+# HaiwellHappy
+[Cleanroom_Page005.bmp](https://github.com/user-attachments/files/27165433/Cleanroom_Page005.bmp)
+[Cleanroom_Page004.bmp](https://github.com/user-attachments/files/27165431/Cleanroom_Page004.bmp)
+[Cleanroom_Page003.bmp](https://github.com/user-attachments/files/27165430/Cleanroom_Page003.bmp)
+[Cleanroom_Page002.bmp](https://github.com/user-attachments/files/27165428/Cleanroom_Page002.bmp)
+[Cleanroom_Page001.bmp](https://github.com/user-attachments/files/27165426/Cleanroom_Page001.bmp)
+
 
 
 
