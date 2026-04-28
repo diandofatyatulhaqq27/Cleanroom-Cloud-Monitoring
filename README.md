@@ -42,6 +42,9 @@ https://github.com/user-attachments/assets/829cdfd1-ad28-4b8c-a8ee-0c5dcade0b37
 <img width="1282" height="749" alt="image" src="https://github.com/user-attachments/assets/465e67a5-f73f-4f0a-934b-3767879a3047" />
 <img width="1279" height="754" alt="image" src="https://github.com/user-attachments/assets/d95909ba-7807-4657-9edf-a56373f10006" />
 
+# Grafana Dashboard
+<img width="1364" height="756" alt="image" src="https://github.com/user-attachments/assets/34150a13-806b-4d36-b924-a5c61ec77051" />
+
 
 
 
