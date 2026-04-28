@@ -33,11 +33,10 @@ Historical Compliance Logging: Automated data archiving within InfluxDB to facil
 https://github.com/user-attachments/assets/829cdfd1-ad28-4b8c-a8ee-0c5dcade0b37
 
 # HaiwellHappy
-[Cleanroom_Page005.bmp](https://github.com/user-attachments/files/27165433/Cleanroom_Page005.bmp)
-[Cleanroom_Page004.bmp](https://github.com/user-attachments/files/27165431/Cleanroom_Page004.bmp)
-[Cleanroom_Page003.bmp](https://github.com/user-attachments/files/27165430/Cleanroom_Page003.bmp)
-[Cleanroom_Page002.bmp](https://github.com/user-attachments/files/27165428/Cleanroom_Page002.bmp)
-[Cleanroom_Page001.bmp](https://github.com/user-attachments/files/27165426/Cleanroom_Page001.bmp)
+<img width="1171" height="475" alt="Visual" src="https://github.com/user-attachments/assets/44576593-ab35-4699-a92b-782e2db55dda" />
+<img width="1138" height="572" alt="Control" src="https://github.com/user-attachments/assets/8444bf07-e8a6-427d-bc13-edd73b8dc704" />
+<img width="1183" height="666" alt="Register" src="https://github.com/user-attachments/assets/12847339-3bd2-4e25-8ee3-da5b1bfddbb6" />
+
 
 
 
