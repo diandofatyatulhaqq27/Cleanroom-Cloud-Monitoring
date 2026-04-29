@@ -1,6 +1,4 @@
 # Cleanroom-Cloud-Monitoring
-
-# Cleanroom Prototype Cloud Monitoring System
 An advanced industrial IoT prototype designed for real-time monitoring and automated environmental control in cleanroom facilities. This project bridges the gap between traditional industrial automation (PLC/SCADA) and modern cloud-based data visualization.
 
 # 📌 Overview
