@@ -36,14 +36,17 @@ https://github.com/user-attachments/assets/829cdfd1-ad28-4b8c-a8ee-0c5dcade0b37
 *Notes: This is only some screenshot of the full ladder diagram
 * Main Program: Visual
 <img width="1171" height="475" alt="Visual" src="https://github.com/user-attachments/assets/44576593-ab35-4699-a92b-782e2db55dda" />
+
 * Main Program: Control
 <img width="1138" height="572" alt="Control" src="https://github.com/user-attachments/assets/8444bf07-e8a6-427d-bc13-edd73b8dc704" />
+
 * Main Program: Register
 <img width="1183" height="666" alt="Register" src="https://github.com/user-attachments/assets/12847339-3bd2-4e25-8ee3-da5b1bfddbb6" />
 
 # HaiwellSCADA
 * Main_UserLogin
 <img width="1282" height="749" alt="image" src="https://github.com/user-attachments/assets/465e67a5-f73f-4f0a-934b-3767879a3047" />
+
 * Dashboard
 <img width="1279" height="754" alt="image" src="https://github.com/user-attachments/assets/d95909ba-7807-4657-9edf-a56373f10006" />
 
