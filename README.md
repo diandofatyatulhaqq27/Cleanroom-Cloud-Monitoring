@@ -38,10 +38,12 @@ https://github.com/user-attachments/assets/829cdfd1-ad28-4b8c-a8ee-0c5dcade0b37
 <img width="1171" height="475" alt="Visual" src="https://github.com/user-attachments/assets/44576593-ab35-4699-a92b-782e2db55dda" />
 
 <br>
+<br>
 
 * Main Program: Control
 <img width="1138" height="572" alt="Control" src="https://github.com/user-attachments/assets/8444bf07-e8a6-427d-bc13-edd73b8dc704" />
 
+<br>
 <br>
 
 * Main Program: Register
@@ -52,16 +54,10 @@ https://github.com/user-attachments/assets/829cdfd1-ad28-4b8c-a8ee-0c5dcade0b37
 <img width="1282" height="749" alt="image" src="https://github.com/user-attachments/assets/465e67a5-f73f-4f0a-934b-3767879a3047" />
 
 <br>
+<br>
 
 * Dashboard
 <img width="1279" height="754" alt="image" src="https://github.com/user-attachments/assets/d95909ba-7807-4657-9edf-a56373f10006" />
 
 # Grafana Dashboard
 <img width="1364" height="751" alt="image" src="https://github.com/user-attachments/assets/74952c39-ab3e-4c23-9b55-8e4a10be50ff" />
-
-
-
-
-
-
-
